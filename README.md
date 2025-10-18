@@ -1,5 +1,5 @@
 # CDRED-WM
-Official code implementation for paper: Coupled Distributional Random Expert Distillation for World Model Online Imitation Learning[[Paper Link]](https://arxiv.org/abs/2505.02228)
+Official code implementation for paper: **Coupled Distributional Random Expert Distillation for World Model Online Imitation Learning** [[Paper Link]](https://arxiv.org/abs/2505.02228)
 
 [Shangzhe Li](https://tobyleelsz.github.io/), [Zhiao Huang](https://sites.google.com/view/zhiao-huang), [Hao Su](https://cseweb.ucsd.edu/~haosu/)
 
